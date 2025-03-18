@@ -25,7 +25,7 @@ cd ../test
 python test.py
 ```
 - This implementation by default detects emotions on all faces in the webcam feed. With a simple 4-layer CNN, the test accuracy reached 67% with average recall of 63% in 40 epochs.<br>
-<img width="837" alt="accuracy_graph" src="https://github.com/Vamsidraz/Emotion-Detection/assets/137616505/d64e9d8d-72ca-4d26-8956-5d35ba084368"> 
+<img width="837" alt="accuracy_graph" src=(https://github.com/Vamsidraz/Emotion-Detection/blob/main/images/accuracy_graph.png)> 
 
 
 ## Model Architectures
